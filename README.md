@@ -1,7 +1,9 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <h1 align="center">Hi 👋, I'm Raushan kr. Singh</h1>
 <h3 align="center">A OSINT Analyst and ML enthusiast from India.</h3>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/raushnn" data-size="large" aria-label="Follow @raushnn on GitHub">Follow @raushnn</a>
