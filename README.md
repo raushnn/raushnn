@@ -6,7 +6,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/raushnn?label=Follow&style=social)](https://github.com/raushnn/?tab=followers)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushnn&label=Profile%20views&color=0e75b6&style=flat" alt="raushnn" /> </p>
-<img align="center" src="https://img.shields.io/github/followers/raushnn?style=for-the-badge"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushnn" alt="raushnn" /></a> </p>
 
