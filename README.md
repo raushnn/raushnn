@@ -6,8 +6,6 @@
 |[![GitHub followers](https://img.shields.io/github/followers/raushnn?label=Follow&style=social)](https://github.com/raushnn/?tab=followers)|<img src="https://komarev.com/ghpvc/?username=raushnn&label=Profile%20views&color=0e75b6&style=flat" alt="raushnn" />|
 |---|---|
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushnn" alt="raushnn" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **A private project**
