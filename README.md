@@ -35,7 +35,3 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=raushnn&theme=github" />
 
-## Metrics
-<div align="center">
-
-![Metrics](https://github.com/raushnn/raushnn/blob/main/github-metrics.svg)</div>
