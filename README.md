@@ -1,37 +1,68 @@
-
-<h1 align="center">Hi 👋, I'm Raushan kr. Singh</h1>
-<h3 align="center">A OSINT Analyst and ML enthusiast from India.</h3>
+<h3 align="center">Hi, Homo sapiens 👋</h3>
 
 
-|[![GitHub followers](https://img.shields.io/github/followers/raushnn?label=Follow&style=social)](https://github.com/raushnn/?tab=followers)|<img src="https://komarev.com/ghpvc/?username=raushnn&label=Profile%20views&color=0e75b6&style=flat" alt="raushnn" />|
-|---|---|
+<p align="center">
+ <a target="_blank" href=https://github.com/raushnn>
+  <img src=https://img.shields.io/github/followers/raushnn?label=follow%20me&style=social />
+  &nbsp;
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a target="_blank" href=https://codeforces.com/profile/raushnn>
+  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
+  &nbsp;
+</a>
 
-- 🔭 I’m currently working on **A private project**
+<a target="_blank" href=https://twitter.com/raushnn>
+  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
+  &nbsp;
+</a>
 
-- 🌱 I’m currently learning **C++ and strengthening my python skill and grasping ML concept.**
+<a target="_blank" href=mailto:raushan026@gmail.com>
+  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+  &nbsp;
+</a>
 
-- 📫 Reach me at **raushan026@gmail.com**
-
-- ⚡ Fun fact **I think I am too lazy to write fun fact.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raushnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raushnn" height="30" width="40" /></a>
-<a href="https://fb.com/raushnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raushnn" height="30" width="40" /></a>
-<a href="https://instagram.com/raushnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raushnn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raushnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="raushnn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<hr>
+<h3 align="center">Show me your cards</h3>
+<br>
 
+<p align="center">
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg alt=sass width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg alt=express width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
+</p>
 
+<br><br>
 
+<p align="center">
 
-|<img src="https://github-readme-stats.vercel.app/api?username=raushnn&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=raushnn&theme=dark&hide_border=true"/>|
-|---|---|
+<img width="500" src="https://metrics.lecoq.io/raushnn" alt="Github Metrics">
+  
+<br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=raushnn&theme=github" />
+</p>
 
+<br>
+
+|![](https://github-readme-stats.vercel.app/api?username=raushnn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=raushnn&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+
+![](https://activity-graph.herokuapp.com/graph?username=raushnn&theme=redical)
+
+![snake](https://raw.githubusercontent.com/raushnn/raushnn/output/github-contribution-grid-snake.svg)
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=raushnn" alt="raushnn"/> </p>  </p>
+<br>
